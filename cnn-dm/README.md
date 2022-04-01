@@ -6,7 +6,7 @@
 
 3. Rouge Score: https://github.com/pltrdy/files2rouge
 
-4: StanfordNLP lib (BPE for Rouge Score): https://stanfordnlp.github.io/CoreNLP/
+4. StanfordNLP lib (BPE for Rouge Score): https://stanfordnlp.github.io/CoreNLP/
 
 # Note
 
