@@ -14,4 +14,4 @@
 
 2. compute node has no internet access, but you can create python env and pip install in discovery node. You will also have to predownload the pretrained model in discovery node.
 
-3. During my script running on interactive mode, I also have to wget line 15,16 in (https://github.com/pytorch/fairseq/blob/main/fairseq/data/encoders/gpt2_bpe.py) and change them to refer to my local repository.
+3. During my script running on interactive mode, I also have to download (wget) 2 files of line 15,16 in (https://github.com/pytorch/fairseq/blob/main/fairseq/data/encoders/gpt2_bpe.py) and change them to path to my local repository.
